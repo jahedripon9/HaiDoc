@@ -23,6 +23,7 @@ const OurDoctors = () => {
                                     </div>
                                 </div>
                             </div>
+                            <button className="btn border-0 rounded-full bg-gradient-to-r from-cyan-500 to-blue-500 my-10 ">View All Doctors</button>
                         </div>
                         <div class="sm:w-1/2 mb-10 px-4 ">
                             <div className=" w-auto bg-base-100 shadow-xl rounded-l-full border-4 border-gray-400">
