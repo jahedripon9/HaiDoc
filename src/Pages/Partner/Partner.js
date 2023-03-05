@@ -7,7 +7,7 @@ import img5 from '../../assets/s5.png';
 
 const Partner = () => {
     return (
-        <section class="text-gray-600 body-font container mx-auto px-4">
+        <section class="text-gray-600 body-font container mx-auto px-4 bg-blue-50">
             <div class="container px-5 py-10 mx-auto">
 
                 <div class="flex flex-wrap -m-4 justify-center">

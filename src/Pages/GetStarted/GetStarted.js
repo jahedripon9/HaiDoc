@@ -3,7 +3,7 @@ import React from 'react';
 const GetStarted = () => {
     return (
         <div>
-            <div className="hero min-h-screen bg-blue-200">
+            <div className="hero min-h-screen bg-blue-50">
                 <div className="hero-content text-center">
                     <div className="max-w-md">
                         <h1 className="text-4xl font-bold">Get started with HaiDoc</h1>
@@ -12,6 +12,7 @@ const GetStarted = () => {
                     </div>
                 </div>
             </div>
+            <div className='divider bg-blue-50'></div>
         </div>
     );
 };

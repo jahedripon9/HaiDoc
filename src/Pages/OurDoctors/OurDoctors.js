@@ -3,7 +3,7 @@ import bgimg from '../../assets/Group 130.png';
 
 const OurDoctors = () => {
     return (
-        <div className='container mx-auto  px-4  py-5'>
+        <div className='container mx-auto bg-blue-50 px-4  py-5'>
             <section class="text-gray-600 body-font">
                 <div class="container px-5 py-24 mx-auto ">
                     <div class="flex flex-wrap -mx-4 -mb-10 text-center ">
@@ -36,6 +36,7 @@ const OurDoctors = () => {
                     </div>
                 </div>
             </section>
+            <div className='divider'></div>
         </div>
     );
 };
