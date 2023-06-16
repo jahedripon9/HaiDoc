@@ -9,7 +9,7 @@ const SpecialServices = () => {
                 <div className="hero-content flex-col lg:flex-row-reverse">
 
                     <div className='mx-auto lg:mx-24 mt-24'>
-                        <h1 className="text-4xl font-bold text-black">Our <span className='py-6 text-4xl font-bold text-cyan-400'>Special Services</span></h1>
+                        <h1 className="text-4xl font-bold text-black">Our <span className='py-6 text-4xl font-bold text-transparent bg-gradient-to-r bg-clip-text from-teal-500 via-teal-500 to-teal-800'>Special Services</span></h1>
                         <p className="py-6 lg:pr-20  text-lg font-sm text-gray-400 text-justify ">In times like today, your health is very important,
                             especially since the number of COVID-19 cases is
                             increasing day by day, so we are ready to help you

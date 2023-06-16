@@ -10,8 +10,8 @@ const HeroSection = () => {
                     <img src={Banner} className="lg:w-1/2 w-2/2 rounded-lg  " />
 
                     <div>
-                        <h1 className="text-6xl font-bold text-black">We Are Ready to</h1>
-                        <p className="py-6 text-6xl font-bold text-cyan-400">Help Your Health</p>
+                        <h1 className="text-6xl font-bold text-black ">We Are Ready to</h1>
+                        <p className="py-6 text-6xl font-bold text-cyan-400 text-transparent bg-gradient-to-r bg-clip-text from-teal-500 via-teal-500 to-teal-800">Help Your Health</p>
                         <h1 className="text-6xl font-bold  text-black">Problems</h1>
                         <p className="py-6 lg:pr-20  text-lg font-sm text-gray-400 text-justify ">In times like today, your health is very important,
                             especially since the number of COVID-19 cases is

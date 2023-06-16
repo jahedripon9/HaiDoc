@@ -6,6 +6,7 @@ import Partner from '../Partner/Partner';
 import Footer from '../Shared/Footer';
 import Header from '../Shared/Header';
 import SpecialServices from '../SpecialServices/SpecialServices';
+import MainService from '../MainService/MainService';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <Header />
             <HeroSection />
             <Partner />
+            <MainService />
             <SpecialServices />
             <OurDoctors />
             <GetStarted />

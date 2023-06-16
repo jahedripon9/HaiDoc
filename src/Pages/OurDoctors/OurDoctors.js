@@ -11,7 +11,7 @@ const OurDoctors = () => {
 
                             <h2 class="title-font text-2xl font-bold text-gray-900 mt-6 mb-3">Our Doctors</h2>
 
-                            <h2 class="title-font text-4xl font-bold  mt-6 mb-3 text-cyan-400">Qualified Doctors</h2>
+                            <h2 class="title-font text-4xl font-bold  mt-6 mb-3 text-transparent bg-gradient-to-r bg-clip-text from-teal-500 via-teal-500 to-teal-800">Qualified Doctors</h2>
                             <p class="leading-relaxed text-1xl mx-auto my-10 text-justify">Handled directly by general doctors and professional <br /> and experienced specialists doctors.</p>
                             <div className="card w-auto mx-auto  image-full justify-start">
                                 <figure><img src={bgimg} className='bg-blue-100 w-auto' alt="Shoes" /></figure>
